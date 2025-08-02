@@ -23,3 +23,12 @@ I didn't fully copy it (because you can't copy from std to pro) and I modified i
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/2..png?raw=true)
 
 **Total time spent: 2h 14m 12s**
+
+# August 2st: Added a display!
+
+Finding a display that was compatible is really really hard. Because you need to find one that exactly matches the size. I was able to find a display that matched. I also needed to convert the 3V3 Voltage to 2V8.
+So I was able to use an LDO Regulator to regulate the voltage to 2V8 and connect it to the RP2040. I was considering changing the microcontroller to the RP2350B, but considering that the RP2350B had way too many pins it would have been way harder.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/2..png?raw=true)
+
+**Total time spent: 2h 7m 50s**
