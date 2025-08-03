@@ -6524,6 +6524,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 39.37) (xy 158.75 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9825f4b9-6b25-448a-9e47-c07e14008057")
+	)
+	(wire
+		(pts
 			(xy 27.94 58.42) (xy 27.94 74.93)
 		)
 		(stroke
@@ -6621,16 +6631,6 @@
 			(type default)
 		)
 		(uuid "ad12b98b-aaa3-4b97-b19a-293ed2db3927")
-	)
-	(wire
-		(pts
-			(xy 158.75 39.37) (xy 133.35 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aeaa9cd3-dcc6-4cce-a0e3-44e3044f4663")
 	)
 	(wire
 		(pts
@@ -13604,6 +13604,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "AMS1117-3.3"
@@ -14522,7 +14523,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c62b1f29-f3a0-45b9-b76b-755ff3fe1aec")
 		(property "Reference" "#PWR039"
 			(at 204.47 16.51 0)
@@ -14534,7 +14534,7 @@
 			)
 		)
 		(property "Value" "+1V1"
-			(at 212.09 16.5099 90)
+			(at 211.582 16.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15562,6 +15562,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "TPMIC5219-2.8YM5"
