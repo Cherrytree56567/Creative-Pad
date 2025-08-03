@@ -27,8 +27,16 @@ I didn't fully copy it (because you can't copy from std to pro) and I modified i
 # August 2st: Added a display!
 
 Finding a display that was compatible is really really hard. Because you need to find one that exactly matches the size. I was able to find a display that matched. I also needed to convert the 3V3 Voltage to 2V8.
-So I was able to use an LDO Regulator to regulate the voltage to 2V8 and connect it to the RP2040. I was considering changing the microcontroller to the RP2350B, but considering that the RP2350B had way too many pins it would have been way harder.
+So I was able to use an LDO Regulator to regulate the voltage to 2V8 and connect it to the RP2040. I was considering changing the microcontroller to the RP2350B, but considering that the RP2350B had way too many pins it would have been way harder. For the display I've used an FPC connector to connect the display. I still need to figure out how I am going to connect the display to the glass front.
 
-![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/2..png?raw=true)
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/3..png?raw=true)
 
 **Total time spent: 2h 7m 50s**
+
+# August 3rd - 4th: Migrated to Kicad
+
+I tried using EasyEDA's pcb creation tool online on Edge, because it was unsupported on firefox, but after 30mins I saw that it was much more difficult than I thought because some features on EasyEDA were missing that were avaliable on KiCAD. After a long time, I was able to migrate everything to Kicad, and almost finish doing the switch bits. Since I'm already used to Kicad, it was much easier. I was able to use the program EasyEDA2Kicad on Python to convert EasyEDA models to Kicad so that I could effectivly migrate it.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/4..png?raw=true)
+
+**Total time spent: 6h 16m 40s**
