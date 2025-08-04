@@ -40,3 +40,11 @@ I tried using EasyEDA's pcb creation tool online on Edge, because it was unsuppo
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/4..png?raw=true)
 
 **Total time spent: 6h 16m 40s**
+
+# August 5th: GroundPlane and Hotswap
+
+I've migrated to GroundPlane, but before that I was using a stopwatch. My stopwatch said 21 mins before I started groundplane so Im adding it to the total time. Also I tried using Scotto Keebs' Hotswap footprint on Kicad, but it is difficult to use. So I found this opensource one on github that was avaliable on the KiCad Plugin Manager. I swapped all my switches to MX HotSwap. I was also able to organize all the components and put all of the diodes, resistors, capacitors, screen, microcontroller, regulators and diodes in their respective places.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/5..png?raw=true)
+
+**Total time spent: 1h 12m 37s**
