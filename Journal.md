@@ -41,10 +41,18 @@ I tried using EasyEDA's pcb creation tool online on Edge, because it was unsuppo
 
 **Total time spent: 6h 16m 40s**
 
-# August 5th: GroundPlane and Hotswap
+# August 5th: Kicad-Wakatime and Hotswap
 
-I've migrated to GroundPlane, but before that I was using a stopwatch. My stopwatch said 21 mins before I started groundplane so Im adding it to the total time. Also I tried using Scotto Keebs' Hotswap footprint on Kicad, but it is difficult to use. So I found this opensource one on github that was avaliable on the KiCad Plugin Manager. I swapped all my switches to MX HotSwap. I was also able to organize all the components and put all of the diodes, resistors, capacitors, screen, microcontroller, regulators and diodes in their respective places.
+I've migrated to KiCad-Wakatime, but before that I was using a stopwatch. My stopwatch said 21 mins before I started groundplane so Im adding it to the total time. Also I tried using Scotto Keebs' Hotswap footprint on Kicad, but it is difficult to use. So I found this opensource one on github that was avaliable on the KiCad Plugin Manager. I swapped all my switches to MX HotSwap. I was also able to organize all the components and put all of the diodes, resistors, capacitors, screen, microcontroller, regulators and diodes in their respective places.
 
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/5..png?raw=true)
 
 **Total time spent: 1h 12m 37s**
+
+# August 6th: Schemetic Redesign
+
+I had to redesign the schematic because the parts and footprints which I used in Easy EDA were difficult to use in KiCad. Im going to finish doing the rest tomorrow. I also need to rewire the pcb. This is especially difficult because of the limited space avaliable in the board. Unfortunatly, I only realised that EasyEDA footprints wouldn't work in KiCAD after I finished wiring it up. So here is quick screenshot.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/6..png?raw=true)
+
+**Total time spent: 1h 22m 25s**
