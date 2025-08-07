@@ -56,3 +56,11 @@ I had to redesign the schematic because the parts and footprints which I used in
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/6..png?raw=true)
 
 **Total time spent: 1h 22m 25s**
+
+# August 7th: PCB rewiring
+
+I redesigned the schematic with KiCad Parts and I used [KiCad Minimal](https://github.com/janelia-kicad/RP2040_minimal) as a starting point for the RP2040 schematic part. I also was able to reorganize and re-wire up the board. But it seems that I have done something wrong here. I don't think it is supposed to look like this. This could be because my wires were too close together. I also migrated my footprints, symbols and 3d models to the git repo, so you can recreate it too.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/7..png?raw=true)
+
+**Total time spent: 2h 54m 18s**
