@@ -12637,7 +12637,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4110"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A"
 			(at 166.37 41.91 0)
 			(effects
 				(font
