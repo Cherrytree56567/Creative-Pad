@@ -6628,7 +6628,7 @@
 			(uuid "3a5ce9b2-4e6f-43a1-9467-d1821f9a10c6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A.step"
+		(model "${KIPRJMOD}/KiCad/3dmodels/KH-TYPE-C-16P.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6636,7 +6636,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
