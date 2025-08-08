@@ -64,3 +64,11 @@ I redesigned the schematic with KiCad Parts and I used [KiCad Minimal](https://g
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/7..png?raw=true)
 
 **Total time spent: 3h 9m 29s**
+
+# August 8th: 3D Modelling
+
+I finished the pcb so now I needed to make a case for it. I opened up OnShape and started making drawings of the pcb. Turns out, these drawings are really really high quality. Which means that it would have a ton of entities, which OnShape can't process. So I spent a ton of time cleaning up these parts in Affinity Designer. I still need to figure out the z heights for the case. I also added some M2 mounting holes for my pcb for it to connect together to the case. Anyway, here is a quick screenshot.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/8..png?raw=true)
+
+**Total time spent: 2h 56m 08s**
