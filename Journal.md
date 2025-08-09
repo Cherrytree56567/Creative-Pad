@@ -72,3 +72,11 @@ I finished the pcb so now I needed to make a case for it. I opened up OnShape an
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/8..png?raw=true)
 
 **Total time spent: 2h 56m 08s**
+
+# August 9th: Sketching
+
+I had to do a ton of stuff like simplyfing the drawing for the bottom and the top. I also needed to measure how big the hotswap switch parts were so that I could indent them into the bottom case of the pcb. Simplyfing the drawings were very repetitive because I would need to remove and move a ton of parts and redo it a bunch of times (16 times). Ive finished the bottom casing, I still need to do the top and the glass bit for the display.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/9..png?raw=true)
+
+**Total time spent: 1h 44m 31s**
