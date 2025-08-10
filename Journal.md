@@ -80,3 +80,11 @@ I had to do a ton of stuff like simplyfing the drawing for the bottom and the to
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/9..png?raw=true)
 
 **Total time spent: 1h 44m 31s**
+
+# August 10th: Part Studio Sketches
+
+I added MX Switches to Creative Pad PCB Assembly so that I could turn it into a simplified drawing. I used Fastened Mates to easily connect the MX Keys to the pcb. I may have misaligned it a bit, but it shouldn't be a huge issue. I was able to put my simplified drawing in OnShape's part studio. Then I added some padding to the switches because without it, even a slight misalignment would prevent it from going in the case.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/10..png?raw=true)
+
+**Total time spent: 1h 37m 00s**
