@@ -88,3 +88,11 @@ I added MX Switches to Creative Pad PCB Assembly so that I could turn it into a 
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/10..png?raw=true)
 
 **Total time spent: 1h 37m 00s**
+
+# August 11th: Indents and LCD Glass Layers
+
+So I was able to finish my drawing and also create the Glass Bridge for my LCD. Unfortunately the glass bridge will have to be large. I was also able to create padded indents in my top case to accommodate the MX Switches. I still need to test everything in an assembly. I also created indents for the Knobs.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/11..png?raw=true)
+
+**Total time spent: 1h 33m 00s**
