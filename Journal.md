@@ -96,3 +96,11 @@ So I was able to finish my drawing and also create the Glass Bridge for my LCD. 
 ![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/11..png?raw=true)
 
 **Total time spent: 1h 33m 00s**
+
+# August 12 - 13th: Custom Key Caps
+
+So I took a bit of inspiration from Teenage Enginerring and so I came up with these keycaps. It makes them look a lot of a music producer's synth board. Anyway, making this key cap took a ton of time because I needed to get the exact measurements and stuff for the MX Switch.
+
+![](https://github.com/Cherrytree56567/Creative-Pad/raw/main/Demos/12..png?raw=true)
+
+**Total time spent: 1h 22m 00s**
